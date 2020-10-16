@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: UTF-8 -*-
-# 2-whois.py3 CODIGOS
+# whois.py3 CODIGOS
 
 import socket
 import whois
